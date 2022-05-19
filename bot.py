@@ -1,6 +1,5 @@
 import asyncio
 import token
-import ffmpeg 
 import discord
 import youtube_dl
 from dotenv import load_dotenv
